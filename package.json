@@ -1,0 +1,21 @@
+{
+  "name": "aws-node-sdk-playground",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Just my playground for node and AWS",
+  "main": "server.js",
+  "engines": {
+    "node": ">= 4.4.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.6.1",
+    "express": "^4.14.0",
+    "yargs": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Ray",
+  "license": "MIT"
+}
